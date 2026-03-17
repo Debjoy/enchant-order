@@ -75,7 +75,7 @@ var data = {
         frost_walker: {
             levelMax: "2",
             weight: "2",
-            incompatible: ["depth_strider"],
+            incompatible: ["depth_strider", "flame_walker"],
             items: ["boots"]
         },
         impaling: {
@@ -266,7 +266,118 @@ var data = {
             weight: "2",
             incompatible: [],
             items: ["mace"]
-        }
+        },
+        elemental_protection: {
+            levelMax: "4",
+            weight: "10",
+            incompatible: [],
+            items: ["helmet", "chestplate", "leggings", "boots"]
+        },
+        flame_walker: {
+            levelMax: "2",
+            weight: "1",
+            incompatible: ["frost_walker"],
+            items: ["boots"]
+        },
+        kamikadze: {
+            levelMax: "3",
+            weight: "5",
+            incompatible: [],
+            items: ["chestplate"]
+        },
+        saturation: {
+            levelMax: "2",
+            weight: "2",
+            incompatible: [],
+            items: ["helmet", "chestplate", "leggings", "boots"]
+        },
+        stopping_force: {
+            levelMax: "3",
+            weight: "5",
+            incompatible: [],
+            items: ["helmet", "chestplate", "leggings", "boots"]
+        },
+        ender_bow: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["bow"]
+        },
+        sniper: {
+            levelMax: "2",
+            weight: "10",
+            incompatible: [],
+            items: ["bow"]
+        },
+        lucky_miner: {
+            levelMax: "3",
+            weight: "5",
+            incompatible: [],
+            items: ["pickaxe"]
+        },
+        replanter: {
+            levelMax: "1",
+            weight: "1",
+            incompatible: [],
+            items: ["hoe"]
+        },
+        treefeller: {
+            levelMax: "1",
+            weight: "2",
+            incompatible: [],
+            items: ["axe"]
+        },
+        tunnel: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: ["veinminer"],
+            items: ["pickaxe"]
+        },
+        veinminer: {
+            levelMax: "3",
+            weight: "1",
+            incompatible: ["tunnel"],
+            items: ["pickaxe"]
+        },
+        double_catch: {
+            levelMax: "3",
+            weight: "2",
+            incompatible: [],
+            items: ["fishing_rod"]
+        },
+        bane_of_netherspawn: {
+            levelMax: "5",
+            weight: "10",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+        decapitator: {
+            levelMax: "2",
+            weight: "2",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+        temper: {
+            levelMax: "5",
+            weight: "1",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+        wisdom: {
+            levelMax: "5",
+            weight: "5",
+            incompatible: [],
+            items: ["sword","axe"]
+        },
+        restore: {
+            levelMax: "3",
+            weight: "2",
+            incompatible: [],
+            items:  ["helmet", "chestplate", "leggings", "boots", "pickaxe", "shovel", "axe", "sword", "hoe", "brush", "fishing_rod",
+                "bow", "shears", "flint_and_steel", "carrot_on_a_stick", "warped_fungus_on_a_stick", "shield", "elytra", "pumpkin",
+                "helmet", "trident", "turtle_shell", "crossbow", "mace", "spear"
+            ]
+        },
     },
     items: [
         'helmet',

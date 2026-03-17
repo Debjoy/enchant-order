@@ -117,6 +117,24 @@
         "vanishing_curse": "Curse of Vanishing / Kutukan Menghilang",
         "density": "Density / Berat",
         "breach": "Breach / Penetrasi Armor",
-        "wind_burst": "Wind Burst / Ledakan Angin"
+        "wind_burst": "Wind Burst / Ledakan Angin",
+        "elemental_protection": "Elemental Protection",
+        "flame_walker": "Flame Walker",
+        "kamikadze": "Kamikadze",
+        "saturation": "Saturation",
+        "stopping_force": "Stopping Force",
+        "ender_bow": "Ender Bow",
+        "sniper": "Sniper",
+        "lucky_miner": "Lucky Miner",
+        "replanter": "Replanter",
+        "treefeller": "Treefeller",
+        "tunnel": "Tunnel",
+        "veinminer": "Veinminer",
+        "double_catch": "Double Catch",
+        "bane_of_netherspawn": "Baner of Netherspawn",
+        "decapitator": "Decapitator",
+        "temper": "Temper",
+        "wisdom": "Wisdom",
+        "restore": "Restore"
     }
 }
