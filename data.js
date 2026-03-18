@@ -289,13 +289,13 @@ var data = {
             levelMax: "2",
             weight: "2",
             incompatible: [],
-            items: ["helmet", "chestplate", "leggings", "boots"]
+            items: ["helmet"]
         },
         stopping_force: {
             levelMax: "3",
             weight: "5",
             incompatible: [],
-            items: ["helmet", "chestplate", "leggings", "boots"]
+            items: ["leggings"]
         },
         ender_bow: {
             levelMax: "1",
