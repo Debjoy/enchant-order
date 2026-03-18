@@ -269,19 +269,19 @@ var data = {
         },
         elemental_protection: {
             levelMax: "4",
-            weight: "10",
+            weight: "4",
             incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots"]
         },
         flame_walker: {
             levelMax: "2",
-            weight: "1",
+            weight: "3",
             incompatible: ["frost_walker"],
             items: ["boots"]
         },
         kamikadze: {
             levelMax: "3",
-            weight: "5",
+            weight: "2",
             incompatible: [],
             items: ["chestplate"]
         },
@@ -293,19 +293,19 @@ var data = {
         },
         stopping_force: {
             levelMax: "3",
-            weight: "5",
+            weight: "1",
             incompatible: [],
             items: ["leggings"]
         },
         ender_bow: {
             levelMax: "1",
-            weight: "1",
+            weight: "3",
             incompatible: [],
             items: ["bow"]
         },
         sniper: {
             levelMax: "2",
-            weight: "10",
+            weight: "4",
             incompatible: [],
             items: ["bow"]
         },
@@ -317,25 +317,25 @@ var data = {
         },
         replanter: {
             levelMax: "1",
-            weight: "1",
+            weight: "2",
             incompatible: [],
             items: ["hoe"]
         },
         treefeller: {
             levelMax: "1",
-            weight: "2",
+            weight: "1",
             incompatible: [],
             items: ["axe"]
         },
         tunnel: {
             levelMax: "3",
-            weight: "1",
+            weight: "1", //ok
             incompatible: ["veinminer"],
             items: ["pickaxe"]
         },
         veinminer: {
             levelMax: "3",
-            weight: "1",
+            weight: "2",
             incompatible: ["tunnel"],
             items: ["pickaxe"]
         },
@@ -347,31 +347,31 @@ var data = {
         },
         bane_of_netherspawn: {
             levelMax: "5",
-            weight: "10",
+            weight: "3",
             incompatible: [],
             items: ["sword","axe"]
         },
         decapitator: {
             levelMax: "2",
-            weight: "2",
+            weight: "1",
             incompatible: [],
             items: ["sword","axe"]
         },
         temper: {
             levelMax: "5",
-            weight: "1",
+            weight: "2",
             incompatible: [],
             items: ["sword","axe"]
         },
         wisdom: {
             levelMax: "5",
-            weight: "5",
+            weight: "3",
             incompatible: [],
             items: ["sword","axe"]
         },
         restore: {
             levelMax: "3",
-            weight: "2",
+            weight: "4",
             incompatible: [],
             items:  ["helmet", "chestplate", "leggings", "boots", "pickaxe", "shovel", "axe", "sword", "hoe", "brush", "fishing_rod",
                 "bow", "shears", "flint_and_steel", "carrot_on_a_stick", "warped_fungus_on_a_stick", "shield", "elytra", "pumpkin",
